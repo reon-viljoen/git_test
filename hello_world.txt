@@ -1,3 +1,4 @@
 "Hello World" 
 "What are we doing today?"
 "Its a new day!"
+"Testing commit skills!"
